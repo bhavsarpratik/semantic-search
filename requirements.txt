@@ -1,1 +1,5 @@
-sentence-transformers>=1.1
+sentence-transformers==1.*
+pytorch_lightning==1.*
+tqdm==4.*
+fastcore==1.*
+wandb==0.10.*

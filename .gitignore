@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+notebooks/data
+notebooks/logs
+notebooks/wandb
