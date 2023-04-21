@@ -131,3 +131,4 @@ dmypy.json
 notebooks/data
 notebooks/logs
 notebooks/wandb
+**.DS_Store
